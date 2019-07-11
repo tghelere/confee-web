@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.15.0",
     "bootstrap-sass": "^3.3.7",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.12",
     "vue": "^2.0.1",
     "vue-router": "^2.0.1",
     "vuex": "^2.0.0"
